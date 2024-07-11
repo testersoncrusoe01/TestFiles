@@ -1,0 +1,2 @@
+100MBtest.bin filter=lfs diff=lfs merge=lfs -text
+10MBtest.bin filter=lfs diff=lfs merge=lfs -text
